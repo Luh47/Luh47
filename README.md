@@ -1,16 +1,30 @@
-### Hi there 👋
+## Luiz Eduardo 💻 
 
-<!--
-**Luh47/Luh47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- -  **Programador** **Javascript** **web** 📕 
+- -  **Programador** **Javascript** **Mobile**  📘 
+- -  **Programador** **Java** 📓
+- - **Programador Python**  📙
 
-Here are some ideas to get you started:
+ <div display="inline">
+  - <img width='20' height='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img  width='20' height='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img width='20' height='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img  width='20' height='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img width='20' height='20'  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+</div>
+
+### Você Também me encontra Em:
+
+<a href="https://www.linkedin.com/in/luh-silva-926b9320b/"
+<img   src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white))https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+
+<a href="https://www.linkedin.com/in/luh-silva-926b9320b/"
+<img   src="Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/luh-silva-926b9320b/"
+<img   src="YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
+</a>
