@@ -15,16 +15,14 @@
 </div>
 
 ### Você Também me encontra Em:
-
-<a href="https://www.linkedin.com/in/luh-silva-926b9320b/"
-<img   src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white))https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+ <div display="inline">
+<a href="(https://www.youtube.com/channel/UC1IqaPo_1LOmQNZEvDFzujw)" >
+<img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
 </a>
 
 
-<a href="https://www.linkedin.com/in/luh-silva-926b9320b/"
-<img   src="Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
+<a href="https://www.linkedin.com/in/luh-silva-926b9320b/">
+<img   width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 </a>
+</div>
 
-<a href="https://www.linkedin.com/in/luh-silva-926b9320b/"
-<img   src="YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
