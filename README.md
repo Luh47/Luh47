@@ -1,9 +1,9 @@
 ## Luiz Eduardo 💻 
 
-- -  **Programador** **Javascript** **web** 📕 
-- -  **Programador** **Javascript** **Mobile**  📘 
-- -  **Programador** **Java** 📓
-- - **Programador Python**  📙
+- -  **ESTUDANTE DE PROGRAMAÇÃO** **Javascript** **web** 📕 
+- -  **ESTUDANTE DE PROGRAMAÇÃO** **Javascript** **Mobile**  📘 
+- -  **ESTUDANTE DE PROGRAMAÇÃO** **Java** 📓
+- - **ESTUDANTE DE PROGRAMAÇÃO Python**  📙
 
  <div display="inline">
   - <img width='20' height='20' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
